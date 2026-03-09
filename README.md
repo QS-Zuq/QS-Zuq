@@ -36,22 +36,11 @@
 ### humanitzbot-dev
 
 > Private development build of humanitzbot - experimental features and pre-release work.
-
-| Component | Technology |
-|-----------|-----------|
-| **Status** | Active Development |
-| **Access** | Private |
-
 <br />
 
 ### howyagarn
 
 > Community multiplayer tooling and companion app. *(Private)*
-
-| Component | Technology |
-|-----------|-----------|
-| **Status** | Private / In Dev |
-
 <br />
 
 ### qs-anticheat
