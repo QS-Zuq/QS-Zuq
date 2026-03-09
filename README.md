@@ -1,10 +1,16 @@
-## G'day legends, 😎
-
-I build open-source tooling for game server communities upon request, such as Discord bots, web dashboards, live maps, and server management automation.
+<div align="center">
+  <h2>G'day legends,</h2>
+  <p>My name is Zach, Zuq, or QS-Zuq.</p>
+  <img src="https://frinkiac.com/meme/S09E15/942123.jpg?b64lines=IEknbSBNb2Ugb3IsIGFzIHRoZSBsYWRpZXMKIGxpa2UgdG8gY2FsbCBtZSwKICJoZXkgeW91LGJlaGluZCB0aGUgYnVzaGVzLiI=" width="150" alt="hey you behind the bushes">  
+  <p>I build open-source tooling for game server communities upon request, such as Discord bots, web dashboards, live maps, and server management automation.</p>
+</div>
 
 ---
 
 ## Projects
+<a href="https://www.bisecthosting.com/zuq?r=github">
+    <img src="https://www.bisecthosting.com/partners/custom-banners/88d53f6d-d0f4-40ce-9041-9a0680c11a6e.webp" align="right" width="180" alt="BisectHosting Partner" style="margin-left: 20px; border-radius: 8px;"/>
+  </a>
 
 ### [humanitzbot](https://github.com/QS-Zuq/humanitzbot)
 
@@ -15,87 +21,51 @@ I build open-source tooling for game server communities upon request, such as Di
 ![SQLite](https://img.shields.io/badge/SQLite-better--sqlite3-003B57?logo=sqlite&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-v5-000000?logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v3-06B6D4?logo=tailwindcss&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-ws-010101?logo=socketdotio&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-green)
 
 | Component | Technology |
 |-----------|-----------|
 | **Runtime** | Node.js 18+ |
 | **Discord API** | discord.js v14 |
-| **Database** | SQLite via better-sqlite3 |
-| **Web Server** | Express v5 |
-| **Map** | Leaflet with CRS.Simple |
-| **Styling** | Tailwind CSS v3 |
-| **File Access** | ssh2-sftp-client (SFTP) |
-| **Real-time** | ws (WebSocket — Pterodactyl RCON console) |
-| **RCON** | Custom TCP + WebSocket clients |
-| **Auth** | Discord OAuth2 with role-based access |
-| **Tests** | Node.js built-in test runner |
+| **Database** | SQLite |
+| **Map** | Leaflet |
+| **RCON** | Custom TCP/WS |
 
----
+<br />
 
 ### humanitzbot-dev
 
-> Private development build of humanitzbot - experimental features, in-progress modules, and pre-release work before they land in the public repo.
+> Private development build of humanitzbot - experimental features and pre-release work.
 
 | Component | Technology |
 |-----------|-----------|
-| **Runtime** | Node.js 18+ |
-| **Discord API** | discord.js v14 |
-| **Database** | SQLite via better-sqlite3 |
-| **Web Server** | Express v5 |
-| **Styling** | Tailwind CSS |
-| **File Access** | ssh2-sftp-client |
-| **Real-time** | ws (WebSocket) |
-| **Tests** | Node.js built-in test runner |
+| **Status** | Active Development |
+| **Access** | Private |
 
----
+<br />
 
 ### howyagarn
 
-> Community multiplayer tooling and companion app. *(Private — details TBA)*
+> Community multiplayer tooling and companion app. *(Private)*
 
 | Component | Technology |
 |-----------|-----------|
-| **Status** | Private / In development |
+| **Status** | Private / In Dev |
 
----
-
-### howyagarn-engine
-
-> Core engine and backend services powering howyagarn. *(Private — details TBA)*
-
-| Component | Technology |
-|-----------|-----------|
-| **Status** | Private / In development |
-
----
+<br />
 
 ### qs-anticheat
 
-> Anti-cheat tooling for game servers. *(Private — details TBA)*
+> Anti-cheat tooling for game servers. *(Private)*
 
-| Component | Technology |
-|-----------|-----------|
-| **Status** | Private / In development |
+<br clear="right" />
 
 ---
 
-## Tech I Use
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=socketdotio&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
-
----
-
-## ☕ Support
-
-If you find my work useful:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FF6D00?logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/qszuq)
+<div align="center">
+  <h3>☕ Support</h3>
+  <p>If you find my work useful:</p>
+  <a href="https://buymeacoffee.com/qszuq">
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FF6D00?logo=buymeacoffee&logoColor=white&style=for-the-badge"alt="Buy Me a Coffee" />
+  </a>
+</div>
