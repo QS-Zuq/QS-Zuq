@@ -1,4 +1,4 @@
-## G'day legends, 👋
+## G'day legends, 😎
 
 I build open-source tooling for game server communities — Discord bots, web dashboards, live maps, and server management automation.
 
