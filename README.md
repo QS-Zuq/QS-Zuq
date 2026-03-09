@@ -4,9 +4,9 @@ I build open-source tooling for game server communities — Discord bots, web da
 
 ---
 
-## 🗂️ Projects
+## Projects
 
-### 🤖 [humanitzbot](https://github.com/QS-Zuq/humanitzbot)
+### [humanitzbot](https://github.com/QS-Zuq/humanitzbot)
 
 > Discord bot and web panel for HumanitZ dedicated servers. Player stats, chat relay, live map, activity logging, and full server management.
 
@@ -34,7 +34,7 @@ I build open-source tooling for game server communities — Discord bots, web da
 
 ---
 
-### 🔧 humanitzbot-dev
+### humanitzbot-dev
 
 > Private development build of humanitzbot — experimental features, in-progress modules, and pre-release work before they land in the public repo.
 
@@ -51,7 +51,7 @@ I build open-source tooling for game server communities — Discord bots, web da
 
 ---
 
-### 🎮 howyagarn
+### howyagarn
 
 > Community multiplayer tooling and companion app. *(Private — details TBA)*
 
@@ -61,7 +61,7 @@ I build open-source tooling for game server communities — Discord bots, web da
 
 ---
 
-### ⚙️ howyagarn-engine
+### howyagarn-engine
 
 > Core engine and backend services powering howyagarn. *(Private — details TBA)*
 
@@ -71,7 +71,7 @@ I build open-source tooling for game server communities — Discord bots, web da
 
 ---
 
-### 🛡️ qs-anticheat
+### qs-anticheat
 
 > Anti-cheat tooling for game servers. *(Private — details TBA)*
 
@@ -81,7 +81,7 @@ I build open-source tooling for game server communities — Discord bots, web da
 
 ---
 
-## 🧰 Tech I Use
+## Tech I Use
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
