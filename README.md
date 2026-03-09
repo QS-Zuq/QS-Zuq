@@ -1,6 +1,6 @@
 ## G'day legends, 😎
 
-I build open-source tooling for game server communities — Discord bots, web dashboards, live maps, and server management automation.
+I build open-source tooling for game server communities upon request, such as Discord bots, web dashboards, live maps, and server management automation.
 
 ---
 
@@ -36,7 +36,7 @@ I build open-source tooling for game server communities — Discord bots, web da
 
 ### humanitzbot-dev
 
-> Private development build of humanitzbot — experimental features, in-progress modules, and pre-release work before they land in the public repo.
+> Private development build of humanitzbot - experimental features, in-progress modules, and pre-release work before they land in the public repo.
 
 | Component | Technology |
 |-----------|-----------|
