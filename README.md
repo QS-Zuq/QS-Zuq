@@ -1,60 +1,54 @@
 <div align="center">
-  <h2>G'day legends,</h2>
-  <p>My name is Zach, Zuq, or QS-Zuq.</p>
-  <img src="https://frinkiac.com/meme/S09E15/942123.jpg?b64lines=IEknbSBNb2Ugb3IsIGFzIHRoZSBsYWRpZXMKIGxpa2UgdG8gY2FsbCBtZSwKICJoZXkgeW91LGJlaGluZCB0aGUgYnVzaGVzLiI=" width="150" alt="hey you behind the bushes">  
-  <p>I build open-source tooling for game server communities upon request, such as Discord bots, web dashboards, live maps, and server management automation.</p>
+  <h1>G'day legends, I'm Zuq 👋</h1>
+  <p><b>Senior FinCrime Analyst | Data Nerd | Professional Rabbit-Hole Explorer</b></p>
+
+  <img src="https://frinkiac.com/meme/S09E15/942123.jpg?b64lines=IEknbSBNb2Ugb3IsIGFzIHRoZSBsYWRpZXMKIGxpa2UgdG8gY2FsbCBtZSwKICJoZXkgeW91LGJlaHinbmQgdGhlIGJ1c2hlcy4i" width="180" alt="Moe Meme" style="border-radius: 10px;"/>
+
+  <p>I build open-source tooling for game server communities - Discord bots, web dashboards, live maps, and automation.</p>
 </div>
 
 ---
 
-## Projects
+### Who is Zuq?
+By trade, I’m a **Senior Financial Crime Analyst**. I spend my "9-to-5" digging through metric butt-loads of data related to Sanctions & AML/TF related drama. I picked up programming to automate the soul-crushing parts of my daily job. Now, here I am. 
+
+**My Learning Style:** Manic topic jumping. 
+`Cybersec` ➔ `CTFs` ➔ `CS50` ➔ `Game Dev (x30 attempts)` ➔ `Game Tooling` ➔ **Current Shiny Object.**
+
+---
+
+## Featured Project
 <a href="https://www.bisecthosting.com/zuq?r=github">
     <img src="https://www.bisecthosting.com/partners/custom-banners/88d53f6d-d0f4-40ce-9041-9a0680c11a6e.webp" align="right" width="180" alt="BisectHosting Partner" style="margin-left: 20px; border-radius: 8px;"/>
-  </a>
+</a>
 
 ### [humanitzbot](https://github.com/QS-Zuq/humanitzbot)
-
-> Discord bot and web panel for HumanitZ dedicated servers. Player stats, chat relay, live map, activity logging, and full server management.
+> The definitive Discord bot and web panel for HumanitZ dedicated servers. 
 
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=nodedotjs&logoColor=white)
 ![discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?logo=discord&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-better--sqlite3-003B57?logo=sqlite&logoColor=white)
-![Express](https://img.shields.io/badge/Express-v5-000000?logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v3-06B6D4?logo=tailwindcss&logoColor=white)
-![MIT](https://img.shields.io/badge/License-MIT-green)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
-| Component | Technology |
-|-----------|-----------|
-| **Runtime** | Node.js 18+ |
-| **Discord API** | discord.js v14 |
-| **Database** | SQLite |
-| **Map** | Leaflet |
-| **RCON** | Custom TCP/WS |
+* **Core Features:** Player stats, real-time chat relay, activity logging.
+* **Live Map:** Built with Leaflet for real-time player positioning.
+* **Management:** Full server control via custom RCON (TCP/WS) implementation.
 
-<br />
+---
 
-### humanitzbot-dev
-
-> Private development build of humanitzbot - experimental features and pre-release work.
-<br />
-
-### howyagarn
-
-> Community multiplayer tooling and companion app. *(Private)*
-<br />
-
-### qs-anticheat
-
-> Anti-cheat tooling for game servers. *(Private)*
+### Other Experiments
+* **howyagarn:** Community multiplayer tooling and companion app. *(Private)*
+* **qs-anticheat:** Anti-cheat logic and server security tooling. *(In Dev)*
 
 <br clear="right" />
 
 ---
 
 <div align="center">
-  <h3>☕ Support</h3>
-  <p>If you find my work useful:</p>
+  <h3>☕ Support the Chaos</h3>
+  <p>If my tools helped your community, consider fueling my next rabbit hole:</p>
   <a href="https://buymeacoffee.com/qszuq">
-    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FF6D00?logo=buymeacoffee&logoColor=white&style=for-the-badge"alt="Buy Me a Coffee" />
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FF6D00?logo=buymeacoffee&logoColor=white&style=for-the-badge" alt="Buy Me a Coffee" />
   </a>
 </div>
