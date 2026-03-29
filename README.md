@@ -10,7 +10,7 @@
 ---
 
 ### Who is Zuq?
-By trade, I’m a **Senior Financial Crime Analyst**. I spend my "9-to-5" digging through metric butt-loads of data related to Sanctions & AML/TF related drama. I picked up programming to automate the soul-crushing parts of my daily job. Now, here I am. 
+By trade, I’m a <a href="https://www.lexisnexis.com/en-ae/glossary/financial-crime-analyst">**Senior Financial Crime Analyst**</a>. I spend my "9-to-5" digging through metric butt-loads of data related to Sanctions & AML/TF related drama. I picked up programming to automate the soul-crushing parts of my daily job. Now, here I am. 
 
 **My Learning Style:** Manic topic jumping. 
 `Cybersec` ➔ `CTFs` ➔ `CS50` ➔ `Game Dev (x30 attempts)` ➔ `Game Tooling` ➔ **Current Shiny Object.**
