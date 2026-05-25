@@ -2,7 +2,7 @@
   <h1>G'day legends, I'm Zuq 👋</h1>
   <p><b>Senior FinCrime Analyst | Data Nerd | Professional Rabbit-Hole Explorer</b></p>
 
-  <img src="https://frinkiac.com/meme/S09E15/942123.jpg?b64lines=IEknbSBNb2Ugb3IsIGFzIHRoZSBsYWRpZXMKIGxpa2UgdG8gY2FsbCBtZSwKICJoZXkgeW91LGJlaHinbmQgdGhlIGJ1c2hlcy4i" width="180" alt="Moe Meme" style="border-radius: 10px;"/>
+  <img src="https://comb.io/rIxKcn.gif" width="180" alt="Moe Meme" style="border-radius: 10px;"/>
 
   <p>I build open-source tooling for game server communities - Discord bots, web dashboards, live maps, and automation.</p>
 </div>
